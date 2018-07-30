@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ShippingPackage\ShippingPackage\bin\Debug\ShippingPackage.exe.config
+C:\Users\User\source\repos\ShippingPackage\ShippingPackage\bin\Debug\ShippingPackage.exe
+C:\Users\User\source\repos\ShippingPackage\ShippingPackage\bin\Debug\ShippingPackage.pdb
+C:\Users\User\source\repos\ShippingPackage\ShippingPackage\obj\Debug\ShippingPackage.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ShippingPackage\ShippingPackage\obj\Debug\ShippingPackage.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ShippingPackage\ShippingPackage\obj\Debug\ShippingPackage.exe
+C:\Users\User\source\repos\ShippingPackage\ShippingPackage\obj\Debug\ShippingPackage.pdb
